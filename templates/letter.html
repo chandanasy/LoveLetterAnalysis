@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Letter Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Love Letter Viewer</h1>
+        </div>
+        <div class="letter-box">
+            <p>{{ letter }}</p>
+        </div>
+        <div class="button-box">
+            <a href="{{ url_for('letter') }}" class="button">Next</a>
+            <a href="{{ url_for('quit') }}" class="button">Quit</a>
+        </div>
+    </div>
+</body>
+</html>
