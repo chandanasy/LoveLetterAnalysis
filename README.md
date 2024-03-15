@@ -29,3 +29,5 @@ The "Love Letter Analysis" project is an exploratory data analysis and natural l
 ## Contributing
 
 If you'd like to contribute to the LoveLetterAnalysis project, please fork the repository and issue a pull request with your proposed changes.
+
+The dataset can be accessed here - https://www.dolthub.com/repositories/evan/letters
