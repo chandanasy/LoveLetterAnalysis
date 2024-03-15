@@ -26,3 +26,6 @@ The "Love Letter Analysis" project is an exploratory data analysis and natural l
 - `static/`: Contains static assets used by the web application.
 - `templates/`: Contains HTML templates for rendering the web application.
 
+## Contributing
+
+If you'd like to contribute to the LoveLetterAnalysis project, please fork the repository and issue a pull request with your proposed changes.
