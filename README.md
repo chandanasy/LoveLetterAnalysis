@@ -17,3 +17,9 @@ The "Love Letter Analysis" project is an exploratory data analysis and natural l
 - WordCloud
 - Scikit-learn
 
+## Repository Contents
+- `LoveLetterAnalysis.ipynb`: The primary Jupyter notebook that outlines the data analysis process, including data cleaning, visualization, sentiment analysis, and clustering.
+- `app.py`: Flask application script to run a web app that displays cleaned love letters.
+- `static/`: Contains static assets used by the web application.
+- `templates/`: Contains HTML templates for rendering the web application.
+
